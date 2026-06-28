@@ -114,18 +114,6 @@ Verilog 기반 FPGA 테트리스 프로젝트입니다.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mini-zun&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-zun&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌱 Goal
 
 > 꾸준히 학습하고, 직접 만들어보며, 사용자에게 도움이 되는 서비스를 개발하는 개발자가 되고 싶습니다.
