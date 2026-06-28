@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Student Developer
+- 🎓 Student Developer majoring in **Computer Science** at **Pukyong National University**
 - 🔭 Currently working on **LINKY**
 - 🌱 Currently learning **React Native, TypeScript, Spring Boot**
 - 💻 Interested in **App Development, Backend, Database, Algorithms**
